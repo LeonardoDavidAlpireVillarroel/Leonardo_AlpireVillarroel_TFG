@@ -1,0 +1,21 @@
+# Temporales y caches de Maya
+.mayaSwatches/
+*.swatch
+*~
+*.bak
+*.tmp
+
+# Temporales de Microsoft Word / Office
+~$*.docx
+~$*.doc
+
+# Temporales de Windows / Sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Archivos pesados de trabajo (por seguridad si se mueven por error)
+*.spp
+*.sbsar
+*.ztl
+*.zpr
