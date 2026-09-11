@@ -18,7 +18,7 @@ Los archivos base de la escena, cinemática y documentación se encuentran organ
 
 
 
-\* 📄 \*\*`Leonardo\_AlpireVillarroel\_TFG\_documento.docx`\*\*: Memoria técnica y documentación completa.
+\* 📄 \*\*`Leonardo\_AlpireVillarroel\_TFG\_memoria.docx`\*\*: Memoria técnica y documentación completa.
 
 \* 🎬 \*\*`Leonardo\_AlpireVillarroel\_TFG\_animacion.mb`\*\*: Escena de animación completa (507 frames a 24 fps).
 
@@ -52,7 +52,7 @@ Debido a los límites de tamaño en repositorios de Git, los proyectos fuente pe
 
 
 
-🔗 \*\*\[Descargar Archivos Fuente en Google Drive]: https://drive.google.com/file/d/1JTmJ7\_nReRaDugmK6k5MMMuuKOxcuXRe/view?usp=sharing
+🔗 \*\*\[Descargar Archivos Fuente en Google Drive]: https://drive.google.com/drive/folders/1o8EqADV21B_IoAMNcbS63VOpHCa9GVaZ?usp=sharing
 
 
 
